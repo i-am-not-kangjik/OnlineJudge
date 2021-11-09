@@ -16,5 +16,5 @@ for i in range(0, a):
             count = 1
     score.append(sum)
 
-for i in range(0, len(score)): 
+for i in range(0, len(score)):
     print(score[i])
