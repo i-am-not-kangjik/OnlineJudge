@@ -3,3 +3,4 @@ def solve():
     d = 1
     while(d < 10000):
         if d < 10:
+            d + 1
