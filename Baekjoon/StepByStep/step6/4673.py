@@ -1,33 +1,38 @@
-list = []
-for i in range(0, 10001):
-    n = i
-    if n < 10:
-        j = n
-        j = j + n
-        if j not in list:
-            list.append(j)
-    elif n > 9 and n < 100:
-        j = n
-        j = j + (n % 10)
-        j = j + (n // 10)
-        if j not in list:
-            list.append(j)
-    elif n > 99 and n < 1000:
-        j = n
-        j = j + (n // 100)
-        j = j + ((n % 100) // 10)
-        j = j + (n % 10)
-        if j not in list:
-            list.append(j)
-    elif n > 999 and n < 10000:
-        j = n
-        j = j + (n // 1000)
-        j = j + ((n % 1000) // 100)
-        j = j + ((n % 100) // 10)
-        j = j + (n % 10)
-        if j not in list:
-            list.append(j)
+def d(n):
+    list = []
+
+    for i in range(0, 10001):
+        j = i
+        if j < 10:
+            k = j
+            k = k + j
+            if k not in list:
+                list.append(k)
+        elif j > 9 and j < 100:
+            k = j
+            k = k + (j % 10)
+            k = k + (j // 10)
+            if k not in list:
+                list.append(k)
+        elif j > 99 and j < 1000:
+            k = j
+            k = k + (j // 100)
+            k = k + ((j % 100) // 10)
+            k = k + (j % 10)
+            if k not in list:
+                list.append(k)
+        elif j > 999 and j < 10000:
+            k = j
+            k = k + (j // 1000)
+            k = k + ((j % 1000) // 100)
+            k = k + ((j % 100) // 10)
+            k = k + (j % 10)
+            if k not in list:
+                list.append(k)
             
-for i in range(0, 10001):
-    if i not in list:
-        print(i)
+    for i in range(0, n+1):
+        if i not in list:
+            print(i)
+            
+
+d(10000)
