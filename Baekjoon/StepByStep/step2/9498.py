@@ -1,3 +1,7 @@
+# 백준 9498번 문제
+# 시험 점수를 입력받아 등급을 출력
+# https://www.acmicpc.net/problem/9498
+
 score = int(input())
 if score > 89 and score < 101:
     print("A")

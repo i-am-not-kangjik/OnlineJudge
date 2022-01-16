@@ -1,3 +1,7 @@
+# 백준 2884번 문제
+# 45분 더 일찍 일어나는 알람시계
+# https://www.acmicpc.net/problem/2884
+
 a, b = input().split()
 a = int(a)
 b = int(b)

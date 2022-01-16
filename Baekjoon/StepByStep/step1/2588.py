@@ -1,3 +1,7 @@
+# 백준 2588번 문제
+# 세 자리 자연수의 곱셈 과정 출력하기
+# https://www.acmicpc.net/problem/2588
+
 a = input()
 b = input()
 A = int(a)
