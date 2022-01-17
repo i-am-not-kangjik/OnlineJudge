@@ -1,3 +1,7 @@
+# 백준 1546번 문제
+# 세준이의 성적 조작하기
+# https://www.acmicpc.net/problem/1546
+
 a = int(input())
 b = input()
 c = b.split()

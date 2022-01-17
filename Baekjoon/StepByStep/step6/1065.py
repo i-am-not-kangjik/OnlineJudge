@@ -1,3 +1,7 @@
+# 백준 1065번 문제
+# 한수
+# https://www.acmicpc.net/problem/1065
+
 def hansu():
     list = []
     n = int(input())

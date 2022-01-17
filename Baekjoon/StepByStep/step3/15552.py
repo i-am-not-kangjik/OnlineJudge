@@ -1,3 +1,7 @@
+# 백준 15552번 문제
+# 빠른 A+B
+# https://www.acmicpc.net/problem/15552
+
 import sys
 times = int(sys.stdin.readline())
 list = []

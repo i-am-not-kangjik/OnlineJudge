@@ -1,3 +1,7 @@
+# 백준 4344번 문제
+# 평균 구하기
+# https://www.acmicpc.net/problem/4344
+
 a = int(input())
 list = []
 for i in range(0, a):

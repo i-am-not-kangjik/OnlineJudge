@@ -1,3 +1,7 @@
+# 백준 8958번 문제
+# OX퀴즈 채점하기
+# https://www.acmicpc.net/problem/8958
+
 a = int(input())
 test = []
 score = []

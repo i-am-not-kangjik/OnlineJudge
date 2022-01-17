@@ -1,3 +1,7 @@
+# 백준 11021번 문제
+# 두 정수 A와 B를 입력받은 다음, A+B를 출력
+# https://www.acmicpc.net/problem/11021
+
 import sys
 t = int(sys.stdin.readline())
 list = []

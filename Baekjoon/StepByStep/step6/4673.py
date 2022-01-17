@@ -1,3 +1,7 @@
+# 백준 4673번 문제
+# 셀프 넘버
+# https://www.acmicpc.net/problem/4673
+
 def d(n):
     list = []
 
