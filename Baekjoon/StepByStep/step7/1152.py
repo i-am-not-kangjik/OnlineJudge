@@ -5,3 +5,5 @@
 def solve():
     a = input().split()
     print(len(a))
+    
+solve()
