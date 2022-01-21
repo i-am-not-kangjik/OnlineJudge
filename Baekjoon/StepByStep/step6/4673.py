@@ -1,5 +1,5 @@
 # 백준 4673번 문제
-# 셀프 넘버
+# 셀프 넘버 구하기
 # https://www.acmicpc.net/problem/4673
 
 def d(n):
