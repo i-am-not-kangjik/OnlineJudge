@@ -8,3 +8,4 @@ def solve(a):
         sum += a[i]
     return sum
     
+    

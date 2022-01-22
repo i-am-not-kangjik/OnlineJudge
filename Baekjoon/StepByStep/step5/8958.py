@@ -22,3 +22,4 @@ for i in range(0, a):
 
 for i in range(0, len(score)):
     print(score[i])
+    

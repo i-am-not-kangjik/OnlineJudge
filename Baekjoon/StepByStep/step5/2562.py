@@ -13,3 +13,4 @@ for i in range(0, 9):
         print(a[i])
         print(i+1)
         break
+    

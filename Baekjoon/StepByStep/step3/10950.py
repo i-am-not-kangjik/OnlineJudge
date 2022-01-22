@@ -12,3 +12,4 @@ for i in range(0, times):
 
 for i in range(0, times):
     print(list[i])
+    

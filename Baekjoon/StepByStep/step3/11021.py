@@ -11,3 +11,4 @@ for i in range(1, t+1):
 
 for i in range(0, t):
     print("Case #{0}: {1}".format(i+1, list[i]))
+    

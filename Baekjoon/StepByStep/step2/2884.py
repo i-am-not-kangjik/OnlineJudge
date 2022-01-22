@@ -18,3 +18,4 @@ elif b < 45:
         a = 23
         b = b + 15
         print(a, b)
+        

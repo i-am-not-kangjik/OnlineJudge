@@ -22,3 +22,4 @@ for i in range(0, len(d)):
 
 for i in range(0, len(count)):
     print(count[i])
+    
