@@ -9,7 +9,7 @@ def solve():
     a = []
     for i in range(0, len(input_string)):
         a.append(input_string[i])
-    for i in range(0, len(a)-2):
+    for i in range(0, len(a)-2): # "dz="을 "dz=", "z=" 으로 두번 카운트해서 빼주기
         if a[i] + a[i+1] + a[i+2] == "dz=":
             count -= 1
     for i in range(0, len(a)-1):
@@ -22,3 +22,4 @@ def solve():
     print(count)
 
 solve()
+
