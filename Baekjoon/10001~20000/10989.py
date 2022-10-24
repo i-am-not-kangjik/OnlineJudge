@@ -6,14 +6,14 @@
 import sys
 
 
-count_list = [0] * 10000 
+count_list = [0] * 10000 # 0으로 채워진 리스트 생성, 범위가 1 <= N <= 10000이다.
 
 
-t = int(sys.stdin.readline())
+t = int(sys.stdin.readline()) # 첫째 줄에는 개수가 주어진다
 
 for _ in range(t):
     n = int(sys.stdin.readline())
-    count_list[n-1] += 1 # 1일 경우 count_list[0]에 저장
+    count_list[n-1] += 1 # 1일 경우 count_list[0]에 저장, 범위가 1부터 10000까지이다.
     
 for i in range(0, len(count_list)):
     if count_list[i] > 0:
