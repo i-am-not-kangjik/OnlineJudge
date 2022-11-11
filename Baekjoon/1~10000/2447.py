@@ -23,7 +23,6 @@ import sys
 n = int(sys.stdin.readline())
 
 ans = [[' ' for i in range(n)] for i in range(n)]
-# log = (int(n ** (1/3))) # 지수 구하기
 
 make_star(n)
 
