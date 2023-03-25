@@ -4,7 +4,7 @@ class Solution {
         if (a == b){
             return a;
         }
-        else if (b < a){
+        else if (b < a){ // a가 더 큰 경우 스왑
             int tmp;
             tmp = a;
             a = b;
