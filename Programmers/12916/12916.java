@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.Collections;
-
 class Solution {
     boolean solution(String s) {
         boolean answer = true;
