@@ -14,7 +14,10 @@ public class Solution {
             }
         }
         //ArrayList를 int 배열로 변한
-        int[] answer = tmp.stream().mapToInt(i -> i).toArray();
+        int[] answer = new int[tmp.size()];
+        for (int i = 0; i < tmp.size(); i++) {
+            answer[i] = tmp.get(i);
+        }
         return answer;
     }
 }
