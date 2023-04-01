@@ -1,7 +1,7 @@
 # 백준 1654번 문제
 # 랜선 자르기
 # https://www.acmicpc.net/problem/1654
-
+# 풀이 진행중(틀림)
 import sys
 
 k, n = map(int, sys.stdin.readline().split())
