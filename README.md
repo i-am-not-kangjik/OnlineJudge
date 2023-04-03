@@ -23,7 +23,7 @@
 - [1712번](Baekjoon/1~10000/1712.py) 손익분기점, 브론즈2
 - [1920번](Baekjoon/1~10000/1920.py) 수 찾기, 실버4
 - [1929번](Baekjoon/1~10000/1929.py) 소수 구하기, 실버3, [1929번 문제 블로그 포스트](https://i-am-not-kangjik.github.io/posts/post30/)
-- [1966번](Baekjoon/1~10000/1966.py) 프린터 큐, 실버3
+- [1966번](Baekjoon/1~10000/1966.py) 프린터 큐, 실버3 [1966번 문제 블로그 포스트](https://i-am-not-kangjik.github.io/posts/post59/)
 - [1978번](Baekjoon/1~10000/1978.py) 소수 찾기, 실버5
 
 - [2108번](Baekjoon/1~10000/2108.py) 통계학, 실버3, [2108번 문제 블로그 포스트](https://i-am-not-kangjik.github.io/posts/post17/)
