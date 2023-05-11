@@ -4,7 +4,7 @@
 - [12906번](12906/12906.java) 같은 숫자는 싫어
 - [12910번](12910/Solution.java) 나누어 떨어지는 숫자 배열
 - [12912번](12912/12912.java) 두 정수 사이의 합, [12912번 문제 블로그 포스트](https://i-am-not-kangjik.github.io/posts/post60/)
-- [12916번](12916/12916.java) 문자열 내 p와 y의 개수
+- [12916번](12916/12916.java) 문자열 내 p와 y의 개수, [12916번 문제 블로그 포스트](https://i-am-not-kangjik.github.io/posts/post64/)
 - [12918번](12918/12918.java) 문자열 다루기 기본
 - [12919번](12919/12919.java) 서울에서 김서방 찾기 [12919번 문제 블로그 포스트](https://i-am-not-kangjik.github.io/posts/post62/)
 - [12921번](12921/Solution.java) 소수 찾기
