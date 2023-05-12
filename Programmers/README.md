@@ -1,7 +1,7 @@
 ### 프로그래머스(Java)
 - [12901번](12901/Solution.java) 2016년
 - [12903번](12903/12903.java) 가운데 글자 가져오기
-- [12906번](12906/12906.java) 같은 숫자는 싫어
+- [12906번](12906/12906.java) 같은 숫자는 싫어, [12906번 문제 블로그 포스트](https://i-am-not-kangjik.github.io/posts/post65/)
 - [12910번](12910/Solution.java) 나누어 떨어지는 숫자 배열
 - [12912번](12912/12912.java) 두 정수 사이의 합, [12912번 문제 블로그 포스트](https://i-am-not-kangjik.github.io/posts/post60/)
 - [12916번](12916/12916.java) 문자열 내 p와 y의 개수, [12916번 문제 블로그 포스트](https://i-am-not-kangjik.github.io/posts/post64/)
